@@ -1,8 +1,6 @@
 
 # ReSeLL using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
-
 ## Tech We Used
 
 - ReactJs
