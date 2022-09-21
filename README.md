@@ -1,5 +1,5 @@
 
-# Amazon - Clone using ReactJs
+# ReSeLL using ReactJs
 
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 

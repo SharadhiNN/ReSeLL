@@ -38,8 +38,8 @@ function Login() {
             <Link to='/'>
                 <img
                     className="login__logo"
-                    src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png' 
-                />
+                    src='https://cdn-icons-gif.flaticon.com/6454/6454106.gif' />
+                    <h1 class="ReSeLL">ReSeLL</h1>
             </Link>
 
             <div className='login__container'>
@@ -55,12 +55,8 @@ function Login() {
                     <button type='submit' onClick={signIn} className='login__signInButton'>Sign In</button>
                 </form>
 
-                <p>
-                    By signing-in you agree to the AMAZON FAKE CLONE Conditions of Use & Sale. Please
-                    see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
-                </p>
 
-                <button onClick={register} className='login__registerButton'>Create your Amazon Account</button>
+                <button onClick={register} className='login__registerButton'>Create your ReSeLL Account</button>
             </div>
         </div>
     )
